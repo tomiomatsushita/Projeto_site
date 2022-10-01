@@ -1,2 +1,2 @@
-# Projeto_site
- projeto de site criado durante estudo
+# Website_Project
+Project developed during a class on Javascript
